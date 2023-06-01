@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "s12",
+  "version": "1.0.0",
+  "description": "intro to express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dave tandoc",
+  "license": "ISC"
+}
